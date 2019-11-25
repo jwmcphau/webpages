@@ -1,0 +1,24 @@
+/*
+ *Name: William McPhaul
+ *UnityID: jwmcphau
+ *Date: 11/24/2019
+ *Assignment: Independent Assignment
+ *Description: CSS file
+ */
+ 
+
+body {
+    background-color: #00AA01
+}
+
+#photo-edits {
+    max-width: 200px ;
+	max-height: 250px ;
+	border: 2px solid #00ff00 ;
+	border-style: offset ;
+	
+}
+
+.table-style {
+    border: 2px solid #6712F3 ;
+}
